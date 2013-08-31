@@ -1,0 +1,1 @@
+ERROR com.steel.Log4j.Log4jTest.main(Log4jTest.java:13) - 带过滤功能的日志写出器，用于过滤error信息。。。
